@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sky World Community</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">SWC</div>
+    <nav>
+      <ul>
+        <li>About us</li>
+        <li>Our projects</li>
+        <li>Directions</li>
+        <li>Info</li>
+      </ul>
+    </nav>
+    <div class="account-btn">Personal account</div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="text-box">
+        <h2>Sky World Community</h2>
+        <h1>Social venture ecosystem</h1>
+        <button>More detailed</button>
+      </div>
+      <div class="right-panel">
+        <div class="card">
+          <h3>FinTech</h3>
+          <p>A specialized platform for attracting financing in “green” technologies</p>
+          <span>More detailed →</span>
+        </div>
+        <div class="card">
+          <h3>EdTech</h3>
+          <p>Smart World Community: online University of the professions of the future</p>
+          <span>More detailed →</span>
+        </div>
+        <div class="card">
+          <h3>SocialTech</h3>
+          <p>An international community where everyone contributes to the formation of an eco-friendly world</p>
+          <span>More detailed →</span>
+        </div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
